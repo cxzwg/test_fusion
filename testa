@@ -1,2 +1,13 @@
 testa 916
+
+
 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  token
+
+
+1 clone自己的包
+2 进入自己的包 git init
+3 git status 查看状态
+4 git add ××× 添加要提交的文件
+5 git commit -m “备注提交信息”
+6 git merge ×× 提交代码到本地
+7 git push origin main    main是主分支
